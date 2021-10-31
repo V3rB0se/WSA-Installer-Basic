@@ -1,9 +1,9 @@
 # WSA-Installer-Basic
-WSA Installer Script
+WSA Installer Script <br>
 Run This Script with admin rights 
 
-
 # Requirements
+<hr>
 
 Memory: 8GB or 16GB (recommended).<br>
 Processor: Intel Core i3 8th Gen, AMD Ryzen 3000, Qualcomm Snapdragon 8c, or better.<br>
@@ -13,6 +13,7 @@ Windows 11: Build 22000.xxx or higher.<br>
 Once you run the script it'll launch Online Link Generator for Microsoft Store in the browser 
 
 #Steps
+<hr>
 
 1: Choose ProductId from first dropdown<br>
 2: Copy this and Paste it in Data Field: 9p3395vx91nr<br>
