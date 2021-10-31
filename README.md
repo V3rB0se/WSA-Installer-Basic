@@ -12,6 +12,8 @@ Windows 11: Build 22000.xxx or higher.<br>
 
 Once you run the script it'll launch Online Link Generator for Microsoft Store in the browser 
 
+#Steps
+
 1: Choose ProductId from first dropdown<br>
 2: Copy this and Paste it in Data Field: 9p3395vx91nr<br>
 3: Select Slow from DropDown Menu & Click the Checkbox Button to Generate the Link<br>
