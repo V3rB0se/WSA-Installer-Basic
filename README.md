@@ -19,6 +19,6 @@ Once you run the script it'll launch Online Link Generator for Microsoft Store i
   <li>Select Slow from DropDown Menu & Click the Checkbox Button to Generate the Link</li>
   <li>Locate the largest file from the list. It should be a MSIX Bundle sized a little over 1 GB.</li>
   <li>Right click and Copy the link of that file and paste it below.</li>
+  <li>WAIT</li>
 </ol>
 
-Wait for it to Download & Install WSA msixbundle 
