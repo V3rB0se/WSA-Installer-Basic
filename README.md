@@ -12,7 +12,7 @@ Windows 11: Build 22000.xxx or higher.<br>
 
 Once you run the script it'll launch Online Link Generator for Microsoft Store in the browser 
 
-#Steps
+# Steps
 <hr>
 
 1: Choose ProductId from first dropdown<br>
