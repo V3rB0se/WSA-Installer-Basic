@@ -5,9 +5,12 @@ Run This Script with admin rights
 
 # Requirements
 
-Memory: 8GB or 16GB (recommended) .
+Memory: 8GB or 16GB (recommended).
+
 Processor: Intel Core i3 8th Gen, AMD Ryzen 3000, Qualcomm Snapdragon 8c, or better.
+
 Storage: Solid-State Drive (SSD).
+
 Windows 11: Build 22000.xxx or higher.
 
 Once you run the script it'll launch Online Link Generator for Microsoft Store in the browser 
