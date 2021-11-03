@@ -1,6 +1,6 @@
 # WSA-Installer-Basic
-WSA Installer Script <br>
-Run This Script with admin rights 
+
+Automate Windows Subsytem for Android Installation!
 
 # Requirements
 <ul>
